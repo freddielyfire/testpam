@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar /Users/llin2/Desktop/PAMCLI/test/PAM-CLI.jar "$@"
